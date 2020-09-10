@@ -1,5 +1,5 @@
 {
-  "name": "com.unity.scenesnavigator",
+  "name": "com.unity.scenes-navigator",
   "version": "1.0.1",
   "displayName": "Scenes Navigator Editor Window",
   "description": "This package provides custom editor window for smooth scene transitions",
