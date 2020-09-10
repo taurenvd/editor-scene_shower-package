@@ -12,3 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Scene navigation
 - Save dialog
 - Move to Scenes and Scripts folders
+
+## [1.0.1] - 20-09-10
+### Changed
+- .meta files GUID collision fixed
