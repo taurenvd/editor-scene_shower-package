@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.scenesnavigator",
+  "version": "1.0.0",
+  "displayName": "Scenes Navigator Editor Window",
+  "description": "This package provides custom editor window for smooth scene transitions",
+  "unity": "2017.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+    "Editor",
+    "Extension",
+    "Scenes"
+  ],
+  "author": {
+    "name": "Valerii Dryl",
+    "email": "taurenvd@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
